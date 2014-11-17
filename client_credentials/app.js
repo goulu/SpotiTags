@@ -9,8 +9,8 @@
 
 var request = require('request'); // "Request" library
 
-var client_id = '03ffe0cac0a0401aa6673c3cf6d02ced'; // Your client id
-var client_secret = 'a57c43efb9644574a96d6623fb8bfbc2'; // Your client secret
+var client_id = '5ef4f09b9c5d4044b39ee999d4a0e3b1'; // SpotiTags client id
+var client_secret = '42ac08ef140b49a2979b092953b69d6b'; // SpotiTags client secret
 var redirect_uri = 'http://localhost:8888/callback'; // Your redirect uri
 
 // your application requests authorization
